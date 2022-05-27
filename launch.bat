@@ -1,0 +1,1 @@
+ArmaReforgerServer.exe -config ".\EveronLife.json" -backendLog -noSplash -logLevel debug -maxFPS 60

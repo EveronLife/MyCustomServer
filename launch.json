@@ -1,0 +1,34 @@
+{
+    "dedicatedServerId": "",
+    "region": "EU",
+    "gameHostBindAddress": "",
+    "gameHostBindPort": 2001,
+    "gameHostRegisterBindAddress": "",
+    "gameHostRegisterPort": 2001,
+    "adminPassword": "roleplayftw",
+    "game": {
+        "name": "Roleplay - MyCustomServer",
+        "password": "",
+        "scenarioId": "{5C552F6B07B10383}Missions/MyCustomServer.conf",
+        "playerCountLimit": 32,
+        "autoJoinable": false,
+        "visible": true,
+        "gameProperties": {
+            "serverMaxViewDistance": 2500,
+            "serverMinGrassDistance": 50,
+            "networkViewDistance": 1000,
+            "disableThirdPerson": true,
+            "fastValidation": true,
+            "battlEye": true
+        },
+        "mods": [
+            {
+                "modId": "597563C79DA08617",
+                "name": "MyCustomServer",
+                "version": "0.0.2"
+            }
+        ]
+    },
+    "a2sQueryEnabled": true,
+    "steamQueryPort": 17777
+}

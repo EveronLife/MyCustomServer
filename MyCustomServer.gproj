@@ -1,0 +1,8 @@
+GameProject {
+ ID "MyCustomServer"
+ GUID "597563C79DA08617"
+ TITLE "MyCustomServer"
+ Dependencies {
+  "59636E668EA37AD7" "58D0FB3206B6F859"
+ }
+}
